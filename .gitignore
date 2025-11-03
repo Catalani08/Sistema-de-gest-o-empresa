@@ -1,0 +1,11 @@
+# .gitignore
+
+# Ignorar arquivos temporários de Java e pastas de compilacao (bin)
+*.class
+bin/
+
+# Ignorar a pasta de configuracao especifica do VS Code
+.vscode/
+
+# Ignorar logs e outros arquivos temporarios
+*.log
