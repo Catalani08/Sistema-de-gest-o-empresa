@@ -1,5 +1,4 @@
 # .gitignore
-
 # Ignorar arquivos temporários de Java e pastas de compilacao (bin)
 *.class
 bin/
